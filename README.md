@@ -4,6 +4,6 @@ Virtual Source Model is an intuitive, non-iterative, forward model to analyze th
 
 # Reference
 
-The presented computational program is mainly used for [the following publication](10.1109/TAP.2020.3000866).
+The presented computational program is mainly used for [the following publication](https://doi.org/10.1109/TAP.2020.3000866).
 
 Sadeghi, M., Tajdini, M.M., Wig, E. and Rappaport, C.M., 2020. Single-frequency fast dielectric characterization of concealed body-worn explosive threats. IEEE Transactions on Antennas and Propagation, 68(11), pp.7541-7548.
